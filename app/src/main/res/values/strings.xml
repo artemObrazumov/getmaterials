@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Get Materials</string>
+    <string name="back">Назад</string>
+    <string name="materials">Строительные материалы</string>
+    <string name="materials_shorter">Материалы</string>
+    <string name="get_material">Получите материалы прямо сейчас!</string>
+    <string name="call_seller">Связаться с продавцом</string>
+    <string name="finish">Завершить</string>
+    <string name="all_materials_allowed">Подходит весь ассортимент продукции т.м. INTERPAN</string>
+    <string name="go_to_website">Перейти на сайт</string>
+    <string name="find_another">Найти еще</string>
+</resources>

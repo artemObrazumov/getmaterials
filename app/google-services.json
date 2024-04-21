@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393317650787",
+    "firebase_url": "https://getmaterials-restored-default-rtdb.firebaseio.com",
+    "project_id": "getmaterials-restored",
+    "storage_bucket": "getmaterials-restored.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393317650787:android:ec64f64997ef564225c356",
+        "android_client_info": {
+          "package_name": "com.borsh_team.getmaterials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIiVtPPyYCVAikoqTQouN_q9g2QMh5nBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
